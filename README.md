@@ -2,8 +2,6 @@
 <h1 align="center">Hello👋 I'm Jakub</h1>
 <h3 align="center">I am a third year IT student passionated in Web Development, especially in creating Angular apps.</h3>
 
-- 🔭 I’m currently working on [web app where you can buy and sell your video courses with ability to creating and solving quizzes.](https://jakubfudali.toadres.pl/courses-app/home)
-
 - 🌱 I’m currently learning **Spring Boot ☀️**
 
 <h3 align="left">Connect with me:</h3>
